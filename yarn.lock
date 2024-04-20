@@ -2277,10 +2277,10 @@
   resolved "https://registry.yarnpkg.com/@corex/deepmerge/-/deepmerge-4.0.43.tgz#9bd42559ebb41cc5a7fb7cfeea5f231c20977dca"
   integrity sha512-N8uEMrMPL0cu/bdboEWpQYb/0i2K5Qn8eCsxzOmxSggJbbQte7ljMRoXm917AbntqTGOzdTu+vP3KOOzoC70HQ==
 
-"@crowdin/crowdin-api-client@^1.25.0":
-  version "1.28.1"
-  resolved "https://registry.yarnpkg.com/@crowdin/crowdin-api-client/-/crowdin-api-client-1.28.1.tgz#6a9bf592bc98054d08e3befdba7187737e800594"
-  integrity sha512-ZBbdkREmqkbFoxeiQi48A/qfQXtGrEDZV7//hWkPTfywda8QN5FDj8ZEmGJSUflCYoOLcZD4r0YtLxKWec4MJA==
+"@crowdin/crowdin-api-client@^1.30.0":
+  version "1.33.1"
+  resolved "https://registry.yarnpkg.com/@crowdin/crowdin-api-client/-/crowdin-api-client-1.33.1.tgz#a34aa0327730013052b39637185b6aa6b3a37948"
+  integrity sha512-OWlp796/Lc+o/ZBvr8ZTLfkz/ZgVNqj6LI2atRfTCTDFBXLW5zxJFYoIwoTh7z0gqsf8z8KNQzz2J5vvQgY9eA==
   dependencies:
     axios "^1"
 
